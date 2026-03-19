@@ -25,52 +25,18 @@
             "id": "c7a8db3c4a0cd9ef",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian-Notes/Attachments/Pasted Image 20260319220333_132.png"
+                "file": "Obsidian-Notes/GIẢI TÍCH II.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20260319220333_132"
-            }
-          },
-          {
-            "id": "c49a75dd40485db9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Obsidian-Notes/Attachments/Pasted Image 20260319223239_256.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20260319223239_256"
-            }
-          },
-          {
-            "id": "59adff6957b45293",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Obsidian-Notes/Attachments/Pasted Image 20260319224313_876.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20260319224313_876"
-            }
-          },
-          {
-            "id": "56537bd8a1388a6a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-19 21.54.11.excalidraw"
+              "icon": "lucide-file",
+              "title": "GIẢI TÍCH II"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
+                "file": "Obsidian-Notes/GIẢI TÍCH II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-03-19 21.54.11.excalidraw"
+              "title": "Backlinks for GIẢI TÍCH II"
             }
           },
           {
@@ -162,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
+                "file": "Obsidian-Notes/GIẢI TÍCH II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2026-03-19 21.54.11.excalidraw"
+              "title": "Outgoing links from GIẢI TÍCH II"
             }
           },
           {
@@ -205,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
+                "file": "Obsidian-Notes/GIẢI TÍCH II.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-03-19 21.54.11.excalidraw"
+              "title": "Outline of GIẢI TÍCH II"
             }
           },
           {
@@ -244,22 +210,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2dd99d81a9e2a00e",
+  "active": "c7a8db3c4a0cd9ef",
   "lastOpenFiles": [
-    "Obsidian-Notes/Attachments/Pasted Image 20260320004631_587.png",
-    "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
-    "Obsidian-Notes/Attachments/Pasted Image 20260319220333_132.png",
-    "Obsidian-Notes/Attachments/Pasted Image 20260319224313_876.png",
-    "Obsidian-Notes/Attachments/Pasted Image 20260319223239_256.png",
-    "Obsidian-Notes/Attachments",
-    "Obsidian-Notes/Attachments/Pasted Image 20260319231437_602.png",
-    "Obsidian-Notes/Attachments/Pasted Image 20260319230420_583.png",
-    "Obsidian-Notes/GIẢI TÍCH II.md",
     "Obsidian-Notes/COURSES.md",
+    "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
+    "Obsidian-Notes/GIẢI TÍCH II.md",
+    "Obsidian-Notes/Pasted Image 20260319223239_256.png",
     "Obsidian-Notes/README.md",
     "README.md",
+    "Obsidian-Notes/Pasted Image 20260319230420_583.png",
+    "Obsidian-Notes/Pasted Image 20260319220333_132.png",
+    "Obsidian-Notes/Pasted Image 20260319224313_876.png",
     "CALCULUS II.md",
     "Obsidian-Notes/Excalidraw",
+    "Obsidian-Notes/Pasted Image 20260319231437_602.png",
     "Obsidian-Notes",
     "Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
     "![[Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
@@ -269,6 +233,7 @@
     "Pasted Image 20260319231437_602.png",
     "Pasted Image 20260319230420_583.png",
     "Pasted Image 20260319224313_876.png",
+    "Pasted Image 20260319223239_256.png",
     "Excalidraw",
     "Untitled.base",
     "Untitled 1.base",
