@@ -11,14 +11,12 @@
             "id": "4eb2ba8efa3d5498",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": "Obsidian-Notes",
-                "bFile": "Obsidian-Notes",
-                "aRef": ""
+                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md"
               },
-              "icon": "diff",
-              "title": "Diff: Obsidian-Notes  (Working Tree)"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-19 21.54.11.excalidraw"
             }
           }
         ]
@@ -94,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Drawing 2026-03-19 21.54.11.excalidraw"
             }
           },
           {
@@ -112,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Drawing 2026-03-19 21.54.11.excalidraw"
             }
           },
           {
@@ -154,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Drawing 2026-03-19 21.54.11.excalidraw"
             }
           },
           {
@@ -194,15 +195,16 @@
   },
   "active": "4eb2ba8efa3d5498",
   "lastOpenFiles": [
-    "Obsidian-Notes/CALCULUS II.md",
+    "Obsidian-Notes/GIẢI TÍCH II.md",
+    "Obsidian-Notes/COURSES.md",
+    "Obsidian-Notes/README.md",
+    "README.md",
     "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
     "Obsidian-Notes/Pasted Image 20260319230420_583.png",
     "Obsidian-Notes/Pasted Image 20260319220333_132.png",
     "Obsidian-Notes/Pasted Image 20260319224313_876.png",
-    "Obsidian-Notes/README.md",
     "CALCULUS II.md",
     "Obsidian-Notes/Excalidraw",
-    "Obsidian-Notes/Welcome.md",
     "Obsidian-Notes/Pasted Image 20260319231437_602.png",
     "Obsidian-Notes/Pasted Image 20260319223239_256.png",
     "Obsidian-Notes",
