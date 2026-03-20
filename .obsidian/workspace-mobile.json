@@ -11,12 +11,14 @@
             "id": "ad7de9c5d9935534",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md"
+                "file": "Obsidian-Notes/GIẢI TÍCH II.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-19 21.54.11.excalidraw"
+              "icon": "lucide-file",
+              "title": "GIẢI TÍCH II"
             }
           }
         ]
@@ -168,8 +170,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ad7de9c5d9935534",
+  "active": "dae54a1e09806e27",
   "lastOpenFiles": [
+    "/Obsidian-Notes",
     "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
     "Obsidian-Notes/GIẢI TÍCH II.md"
   ]
