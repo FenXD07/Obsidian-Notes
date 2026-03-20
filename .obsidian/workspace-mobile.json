@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian-Notes/GIẢI TÍCH II.md",
+                "file": "Obsidian-Notes/COURSES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIẢI TÍCH II"
+              "title": "COURSES"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "dae54a1e09806e27",
   "lastOpenFiles": [
+    "Attachments",
+    "Obsidian-Notes/GIẢI TÍCH II.md",
     "/Obsidian-Notes",
-    "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
-    "Obsidian-Notes/GIẢI TÍCH II.md"
+    "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md"
   ]
 }
