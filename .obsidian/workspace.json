@@ -11,14 +11,10 @@
             "id": "4eb2ba8efa3d5498",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian-Notes/GIẢI TÍCH II.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GIẢI TÍCH II"
+              "title": "New tab"
             }
           },
           {
@@ -127,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a8501a19bbaa0cf9",
@@ -229,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,11 +243,14 @@
   },
   "active": "56537bd8a1388a6a",
   "lastOpenFiles": [
+    "Obsidian-Notes/Notes/COURSES.md",
     "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
+    "Obsidian-Notes/Attachments/Pasted Image 20260323085753_137.png",
+    "Obsidian-Notes/Attachments/Pasted Image 20260323085131_700.png",
+    "Obsidian-Notes/Attachments/Pasted Image 20260323084751_509.png",
     "Obsidian-Notes/Attachments/Pasted Image 20260319231437_602.png",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "Obsidian-Notes/Notes/COURSES.md",
     "Obsidian-Notes/Notes/GIẢI TÍCH II.md",
     "Obsidian-Notes/Notes",
     "Obsidian-Notes/Attachments/Pasted Image 20260320004631_587.png",
@@ -270,9 +270,6 @@
     "![[Excalidraw",
     "Welcome.md",
     "Pasted Image 20260319220333_132.png",
-    "Pasted Image 20260319231437_602.png",
-    "Pasted Image 20260319230420_583.png",
-    "Pasted Image 20260319224313_876.png",
     "Excalidraw",
     "Untitled.base",
     "Untitled 1.base",
