@@ -61,11 +61,13 @@
             "id": "56537bd8a1388a6a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md"
+                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "Drawing 2026-03-19 21.54.11.excalidraw"
             }
           }
@@ -240,11 +242,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2dd99d81a9e2a00e",
+  "active": "56537bd8a1388a6a",
   "lastOpenFiles": [
     "Obsidian-Notes/Attachments/Pasted Image 20260320004631_587.png",
     "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
