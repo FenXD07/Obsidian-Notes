@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Obsidian-Notes/Attachments"
+  "attachmentFolderPath": "Obsidian-Notes/Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Obsidian-Notes/Notes"
 }

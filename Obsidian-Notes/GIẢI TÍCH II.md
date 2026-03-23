@@ -1,1 +1,0 @@
-![[Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw]]
