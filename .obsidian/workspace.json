@@ -61,13 +61,11 @@
             "id": "56537bd8a1388a6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "Drawing 2026-03-19 21.54.11.excalidraw"
             }
           }
@@ -235,6 +233,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -245,23 +244,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "092d6af1e7f62a6d",
+  "active": "56537bd8a1388a6a",
   "lastOpenFiles": [
+    "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
+    "Obsidian-Notes/Attachments/Pasted Image 20260319231437_602.png",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "Obsidian-Notes/Notes/COURSES.md",
     "Obsidian-Notes/Notes/GIẢI TÍCH II.md",
     "Obsidian-Notes/Notes",
     "Obsidian-Notes/Attachments/Pasted Image 20260320004631_587.png",
-    "Obsidian-Notes/Excalidraw/Drawing 2026-03-19 21.54.11.excalidraw.md",
     "Obsidian-Notes/Attachments/Pasted Image 20260319220333_132.png",
     "Obsidian-Notes/Attachments/Pasted Image 20260319224313_876.png",
     "Obsidian-Notes/Attachments/Pasted Image 20260319223239_256.png",
     "Obsidian-Notes/Attachments",
-    "Obsidian-Notes/Attachments/Pasted Image 20260319231437_602.png",
     "Obsidian-Notes/Attachments/Pasted Image 20260319230420_583.png",
     "Obsidian-Notes/GIẢI TÍCH II.md",
     "Obsidian-Notes/COURSES.md",
     "Obsidian-Notes/README.md",
-    "README.md",
     "CALCULUS II.md",
     "Obsidian-Notes/Excalidraw",
     "Obsidian-Notes",
